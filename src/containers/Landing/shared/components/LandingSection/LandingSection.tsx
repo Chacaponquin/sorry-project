@@ -8,7 +8,7 @@ export default function LandingSection({
   children: React.ReactNode;
   theme: "dark" | "light";
 }) {
-  const CLASS = clsx("w-full flex justify-center px-20 esm:px-10", {
+  const CLASS = clsx("w-full flex justify-center px-20 esm:px-7", {
     "bg-darkStrong": theme === "dark",
     "bg-white": theme === "light",
   });
