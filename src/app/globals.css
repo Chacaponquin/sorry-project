@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Space Mono Regular";
+  src: url("../modules/app/assets/fonts/space-mono/SpaceMono-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Space Mono Bold";
+  src: url("../modules/app/assets/fonts/space-mono/SpaceMono-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Space Mono Italic";
+  src: url("../modules/app/assets/fonts/space-mono/SpaceMono-Italic.ttf");
+}
+
+* {
+  font-family: "Space Mono Regular";
+}
