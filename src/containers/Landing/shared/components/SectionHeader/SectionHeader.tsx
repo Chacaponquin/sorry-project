@@ -14,7 +14,7 @@ export default function SectionHeader({
   });
 
   const TEXT_CLASS = clsx(
-    "text-4xl font-fontBold border-b-2 pr-10 pb-3 w-max esm:text-3xl whitespace-normal flex",
+    "text-4xl font-fontBold border-b-2 pr-10 esm:pr-0 pb-3 w-max esm:text-3xl whitespace-normal flex",
     {
       "border-grayExtraLight": theme === "dark",
       "border-grayLight": theme == "light",
