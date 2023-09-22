@@ -14,4 +14,10 @@ export const REASONS: Array<Reason> = [
     description:
       "Héctor tiene una gata igual de sexy que él, y por cosas de la vida siempre anda viendo fotos de gatos en Twitter, es una razón de sobra para darse cuenta la increible persona que es.",
   },
+  {
+    image: APP_IMAGES.FRIENDS,
+    description:
+      "Creo que a Amalia le caigo bien así que a ella no le gustaría que odiaras a una persona tan buena como yo. O sea tendrías que perdonarme por el bien de ella más que por mi.",
+    title: "😎 Tus amistades lo aprobarán",
+  },
 ];
