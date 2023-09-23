@@ -4,4 +4,5 @@ export const APP_IMAGES = {
   CAR_GLASSES: { image: "/images/cat_glasses.webp", alt: "Cat With Glasses" },
   PROGRAMMER: { image: "/images/programmer.webp", alt: "Programmer" },
   FRIENDS: { image: "/images/friends.webp", alt: "Friends" },
+  CATS: { image: "/images/cats.webp", alt: "Cats" },
 } as const;

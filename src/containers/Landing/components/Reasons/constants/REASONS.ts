@@ -20,4 +20,9 @@ export const REASONS: Array<Reason> = [
       "Creo que a Amalia le caigo bien así que a ella no le gustaría que odiaras a una persona tan buena como yo. O sea tendrías que perdonarme por el bien de ella más que por mi.",
     title: "😎 Tus amistades lo aprobarán",
   },
+  {
+    image: APP_IMAGES.CATS,
+    description: `No se si lo sepas pero Matias y Pelusa se han vuelto muy buenos amigos, y me llevan escribiendo hace unos días diciéndome que haga lo que sea para que me perdones (a lo mejor se han intentado poner en contacto contigo también). Ellos están sufriendo mucho esta ruptura, no quieren ni comer debido a tu enfado, así que sería de gran ayuda si me perdonas y salimos los 4 a comer pescado un día.`,
+    title: "💌 Matias y Pelusa merecen ser felices",
+  },
 ];
